@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="17cm" height="14cm" viewBox="299 86 339 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="468.933" cy="226.466" rx="168.067" ry="138.534"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="468.933" cy="226.466" rx="168.067" ry="138.534"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="468.933" y="231.266">
+      <tspan x="468.933" y="231.266"></tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="403.857,160 580,160 527.952,303 351.809,303 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="403.857,160 580,160 527.952,303 351.809,303 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="465.904" y="236.3">
+      <tspan x="465.904" y="236.3"></tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 437.143 179 L 497.857,179 L 510,225 L 497.857,271 L 437.143,271 L 425,225 L 437.143,179z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 437.143 179 L 497.857,179 L 510,225 L 497.857,271 L 437.143,271 L 425,225 L 437.143,179"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="467.5" y="230">
+      <tspan x="467.5" y="230"></tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 470.667 224 L 497.333,224 C 501.015,224 504,232.954 504,244 C 504,255.046 501.015,264 497.333,264 L 470.667,264 C 466.985,264 464,255.046 464,244 C 464,232.954 466.985,224 470.667,224z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 470.667 224 L 497.333,224 C 501.015,224 504,232.954 504,244 C 504,255.046 501.015,264 497.333,264 L 470.667,264 C 466.985,264 464,255.046 464,244 C 464,232.954 466.985,224 470.667,224"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="484" y="249">
+      <tspan x="484" y="249"></tspan>
+    </text>
+  </g>
+</svg>
